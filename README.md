@@ -1,4 +1,4 @@
-## About Me
+## About Me ~~ In Progress ~~ Learn and Share Without a Full-Stop 
 
 You can use the [editor on GitHub](https://github.com/rvj07analytics/rvj07analytics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
